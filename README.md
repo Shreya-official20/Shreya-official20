@@ -69,5 +69,3 @@ An enthusiastic and self-motivated Computer Science Graduate who has an ability 
 <br>
 
 
-![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=Shreya-official20&show_icons=true&hide_border=true) !
-<br />
