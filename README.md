@@ -20,6 +20,6 @@ I am Full stack developer.
 ### Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyasingh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarshshukla1222/" height="40" width="40" /></a>
-<a href="https://leetcode.com/shreya-singh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/us3244/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyasingh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarshshukla1222/" height="32" width="32" /></a>
+<a href="https://leetcode.com/shreya-singh20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/us3244/" height="32" width="32" /></a>
 </p>
