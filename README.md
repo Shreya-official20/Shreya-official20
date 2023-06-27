@@ -5,7 +5,7 @@ I am Full stack developer.
 --------------------------
 
 *   🌍  I'm based in Lucknow, India
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shreya-official20.github.io/Portfolio/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://shreyasingh.netlify.app/'>Portfolio</a>
 *   🧠  Currently learning React
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
